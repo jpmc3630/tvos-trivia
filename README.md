@@ -1,4 +1,3 @@
 # tvos-trivia
 
-## Prototyping:
-### React-Native tVOS App
+### React-Native tVOS App Prototype
